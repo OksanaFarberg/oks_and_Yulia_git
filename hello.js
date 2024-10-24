@@ -1,4 +1,2 @@
-let a = 2
-let b = 100
-
-let c = 'Оксана'
+const a = 2
+const b = 3
