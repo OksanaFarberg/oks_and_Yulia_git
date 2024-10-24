@@ -1,4 +1,4 @@
-let a = 2
-let b = 100
+let a = 20000
+let b = 1000000
 
 let c = 'Оксана'
